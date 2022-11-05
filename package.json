@@ -1,13 +1,15 @@
 {
-  "name": "atom-package-template",
-  "theme": "atom-package-template",
+  "name": "789_SLOT",
+  "theme": "789_SLOT อันดับ 1 ของประเทศไทย ฝาก-ถอน ได้ 24 ชั่วโมง",
   "version": "0.10.9",
-  "description": "เพิ่มตรงนี้",
+  "description": "789_SLOT อันดับ 1 ของประเทศไทย ฝาก-ถอน ได้ 24 ชั่วโมงี้",
   "keywords": [
-    "ใส่เพิ่มตรงนี้",
-    "เพิ่มตรงนี้"
+    "789",
+    "สล็อต",
+    "789KM",
+    "slot"
   ],
-  "repository": "https://github.com/7elven/atom-package-template",
+  "repository": "https://github.com/mrslomo/789_SLOT.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
